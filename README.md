@@ -1,7 +1,7 @@
 <h1 align="center"> Happy </h1>
 
 <p align="center">
-Frontend da aplicação Happy, uma plataforma onde pessoas podem buscar por orfanatos para visitas e se guiar pela localização, horário e disponibilidade de visitas.
+Happy é uma plataforma onde pessoas podem buscar por orfanatos para visitas e se guiar pela localização, horário e disponibilidade de visitas.
 </p>
 
 <p align="center">
